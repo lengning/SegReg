@@ -1,3 +1,6 @@
+# Latest version can be found at: https://github.com/rhondabacher/Trendy
+
+
 # SegReg
 SegReg: Breakpoint analysis of time course expression data
 
